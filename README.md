@@ -14,8 +14,15 @@
 
 ### Table of Contents
 
+[Minecraft Servers](#minecraft-servers)
 
-[Minecraft Servers](#-minecraft-servers) | [Honorable Mentions](#-honorable-mentions) | [Editing Software & PC Hardware](#-editing-software--pc-hardware) | [Music](#-music) | [References/Credits](#-referencescredits)
+[Honorable Mentions](#honorable-mentions) 
+
+[Editing Software & PC Hardware](#editing-software--pc-hardware) 
+
+[Music](#music) 
+
+[References/Credits](#referencescredits)
 
 ---
 
@@ -23,7 +30,7 @@
 
 <br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="30" /> Minecraft Servers
+# Minecraft Servers
 
 > **In video order.**
 > Please check their websites or discords if IP or version are outdated, and notify me please
@@ -35,12 +42,13 @@
 
 <br>
 
-## <img src="https://mc-heads.net/avatar/Hypixel/32" /> Hypixel SkyBlock
+## Hypixel SkyBlock
 
 | | |
 |---|---|
 | **IP** | `hypixel.net` |
-| **Version** | 1.8.9 or 1.21.x (whatever version the utility mods are updated to) |
+| **Version** | 1.8.9 or 1.21.x |
+> any version works. use whatever version that has the mods you need
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hypixel)
 
@@ -48,18 +56,16 @@
 
 <br>
 
-## <img src="https://wynncraft.com/favicon.ico" width="32" /> Wynncraft
+## Wynncraft
 
 | | |
 |---|---|
 | **IP** | `wynncraft.com` [or to support the channel use: `looni.wynncraft.com`] |
-| **Version** | 1.21.4+ |
-
-Optionally: refer to latest Wynntils update version
+| **Version** | 1.21.4+ or optionally: [refer to latest Wynntils update version](https://modrinth.com/mod/wynntils/versions) |
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wynncraft)
+
 [![Website](https://img.shields.io/badge/Website-wynncraft.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://wynncraft.com/)
-[![Modrinth](https://img.shields.io/badge/Wynntils-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/mod/wynntils/versions)
 
 ---
 
@@ -73,6 +79,7 @@ Optionally: refer to latest Wynntils update version
 | **Version** | 1.21.8+ |
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AhAHuXFyy7)
+
 [![Website](https://img.shields.io/badge/Website-face.land-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://face.land/)
 
 > very nice website :)
@@ -81,7 +88,7 @@ Optionally: refer to latest Wynntils update version
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="32" /> Telos Realms
+## Telos Realms
 
 | | |
 |---|---|
@@ -89,13 +96,14 @@ Optionally: refer to latest Wynntils update version
 | **Version** | 1.21.10 |
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/qc8swvEY66)
+
 [![Wiki](https://img.shields.io/badge/Wiki-telosrealms-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.telosrealms.com/)
 
 ---
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snow-Capped%20Mountain.png" alt="Mountain" width="32" /> Hyperborea
+## Hyperborea
 
 | | |
 |---|---|
@@ -103,13 +111,14 @@ Optionally: refer to latest Wynntils update version
 | **Version** | 1.21.4+ |
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AzMEMXMz6f)
+
 [![Wiki](https://img.shields.io/badge/Wiki-hyperborea-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://hyperborea.wiki.gg/)
 
 ---
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Monster" width="32" /> Megido Abyss
+## Megido Abyss
 
 | | |
 |---|---|
@@ -117,14 +126,16 @@ Optionally: refer to latest Wynntils update version
 | **Version** | 1.12.2+ |
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/invite/P95Y75u)
+
 [![Wiki](https://img.shields.io/badge/Wiki-megidoabyss-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://megidoabyss.wiki.gg/)
+
 [![YouTube](https://img.shields.io/badge/Playlist-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLtO9skh_F45O89E7P__e8NbXMZIqf5rty)
 
 ---
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hole.png" alt="Abyss" width="32" /> Mine in Abyss
+## Mine in Abyss
 
 | | |
 |---|---|
@@ -132,17 +143,19 @@ Optionally: refer to latest Wynntils update version
 | **Build Server** | `build.mineinabyss.com` (if u wanna just fly around) |
 | **Version** | 1.21.11 |
 
-Use their modpack for the best experience! Performance + visual improvements (ex. it was how I got those massive wide shots of the Abyss)
+Use their [modpack](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/mineinabyss-modpack) for the best experience! Performance + visual improvements (ex. it was how I got those massive wide shots of the Abyss)
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mine-in-abyss-385252444734619680)
+
 [![Modrinth](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/mineinabyss-modpack)
+
 [![Docs](https://img.shields.io/badge/Modpack_Guide-Docs-blue?style=flat-square&logo=readthedocs&logoColor=white)](https://outline.mineinabyss.com/s/home/doc/modpack-VbxUNQ4ztj)
 
 ---
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="32" /> Origin Realms
+## Origin Realms
 
 | | |
 |---|---|
@@ -150,13 +163,14 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 | **Version** | 1.21+ |
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/originrealms)
+
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@playoriginrealms)
 
 ---
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Swords" width="32" /> Monumenta
+## Monumenta
 
 | | |
 |---|---|
@@ -164,12 +178,17 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 | **Version** | 1.20.4+ |
 
 > **Note:** Server's Resource Pack requires either Optifine or certain Fabric mods w/ certain configs.
-> To easily get started, officially recommended modpack here: WIP.
+
+[![Resource Packs](https://img.shields.io/badge/Resource_Packs-Guide-orange?style=flat-square&logo=bookstack&logoColor=white)](https://monumenta.wiki.gg/wiki/Monumenta_Resource_Packs)
+
+### To easily get started, officially recommended modpack here: WIP.
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Vc8Z8C33hN)
+
 [![Website](https://img.shields.io/badge/Website-playmonumenta.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://playmonumenta.com/)
+
 [![Wiki](https://img.shields.io/badge/Wiki-monumenta-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://monumenta.wiki.gg/)
-[![Resource Packs](https://img.shields.io/badge/Resource_Packs-Guide-orange?style=flat-square&logo=bookstack&logoColor=white)](https://monumenta.wiki.gg/wiki/Monumenta_Resource_Packs)
+
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@monumentammo)
 
 ---
@@ -183,7 +202,9 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 ### Spellforged
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/jJVEYpW)
+
 [![Website](https://img.shields.io/badge/Website-spellforged-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://spellforged.github.io/)
+
 [![YouTube](https://img.shields.io/badge/YouTube-@novalescent-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@novalescent)
 
 <br>
@@ -191,7 +212,9 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 ### Isles 2.0
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/NnZREhEj6j)
+
 [![Website](https://img.shields.io/badge/Website-skyblockisles.net-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://skyblockisles.net/)
+
 [![YouTube](https://img.shields.io/badge/YouTube-@skyblockisles-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@skyblockisles)
 
 ---
@@ -200,37 +223,37 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 
 <a id="honorable-mentions"></a>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clap" width="30" /> Honorable Mentions
+# Honorable Mentions
 
-> Find updated version info & other details by joining their discord
-
-<br>
-
-## Servers
+Find IP and updated version info + other details by joining their discords
 
 <br>
 
-### Void Tales
+### Void Tales - voidtales.win
 `playable` — requires modpack due to resourcepack reasons (they're trying to get rid of this req)
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/k2bKBWR4UG)
+
 [![YouTube](https://img.shields.io/badge/YouTube-@VoidTales0-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@VoidTales0)
 
 <br>
 
-### Minebox
+### Minebox - join.minebox.co
 `playable` — offers many translations
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/y37M2ncZ6d)
+
 [![Website](https://img.shields.io/badge/Website-minebox.co-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://minebox.co/)
 
 <br>
 
-### FishOnMC
+### FishOnMC - play.fishonmc.net
 `playable` — Fishing Simulator
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8japBD4xb8)
+
 [![Wiki](https://img.shields.io/badge/Wiki-fishonmc-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.fishonmc.net/)
+
 [![YouTube](https://img.shields.io/badge/YouTube-@FishOnMinecraft-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FishOnMinecraft)
 
 <br>
@@ -242,21 +265,22 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 
 <br>
 
-### Nuvguard Heroes
+### Nuvguard Heroes - mc.nuvguard.com
 `playable` — MOBA PvP Server
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/H9pEuPNYBj)
+https://discord.gg/H9pEuPNYBj
+
 [![Website](https://img.shields.io/badge/Website-nuvguard.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://nuvguard.com/)
+
 [![YouTube](https://img.shields.io/badge/YouTube-@Nuvguard-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Nuvguard)
 
 <br>
 
 ### Shown but not mentioned:
 
-| Server | Type | Discord |
-|--------|------|---------|
-| **Nova Nexus** | First Person Shooter (not RPG) | [![Discord](https://img.shields.io/badge/Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/JVj5CsmD7U) |
-| **Gensokyo Reimagined** | Touhou MMORPG | [![Discord](https://img.shields.io/badge/Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/DYdPYaH8vN) |
+**Nova Nexus** - First Person Shooter (not RPG) https://discord.gg/JVj5CsmD7U
+
+**Gensokyo Reimagined** - Touhou MMORPG https://discord.gg/DYdPYaH8vN
 
 ---
 
@@ -269,37 +293,41 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 ### Final Paradox
 
 [![YouTube](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=5FmBb4SLrik)
-[![Download](https://img.shields.io/badge/Download-Minecraft_Forum-62B47A?style=flat-square&logo=modrinth&logoColor=white)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/3166897-ctm-final-paradox-dlc-nightmare-awakening-map)
+
+https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/3166897-ctm-final-paradox-dlc-nightmare-awakening-map
 
 <br>
 
 ### Fool's Errand
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uwZkbB9hBM)
-[![Planet Minecraft](https://img.shields.io/badge/Download-Planet_Minecraft-3b5998?style=flat-square&logo=planet&logoColor=white)](https://www.planetminecraft.com/project/fool-s-errand-the-curse-of-binding-a-soulslike-adventure-map/)
+https://discord.gg/uwZkbB9hBM
+
+https://www.planetminecraft.com/project/fool-s-errand-the-curse-of-binding-a-soulslike-adventure-map/
 
 <br>
 
 ### ANTITHEIST
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/2U5rxzNA6p)
-[![Planet Minecraft](https://img.shields.io/badge/Download-Planet_Minecraft-3b5998?style=flat-square&logo=planet&logoColor=white)](https://www.planetminecraft.com/project/antitheist/)
+https://discord.gg/2U5rxzNA6p
+
+https://www.planetminecraft.com/project/antitheist/
 
 <br>
 
 ### Undertale in Minecraft
 
 [![YouTube](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Hh8I23zEBsQ)
-[![Modrinth](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/undertale)
+
+https://modrinth.com/modpack/undertale
 
 <br>
 
 ### ATMOS
 
-> ^ they use a modpack for easier instance setup. Doesn't actually require mods but does that really matter nowadays?
+https://modrinth.com/modpack/atmos_roguelike
+https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 
-[![Modrinth](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/atmos_roguelike)
-[![Planet Minecraft](https://img.shields.io/badge/Download-Planet_Minecraft-3b5998?style=flat-square&logo=planet&logoColor=white)](https://www.planetminecraft.com/project/atmos-rougelike-rougelite/)
+> Modpack download is just for easier instance setup. Map technically doesnt require mods :) (the advantage is server map hosting)
 
 ---
 
@@ -353,7 +381,7 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 
 <br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="30" /> Music
+# Music
 
 ### in order
 
@@ -363,7 +391,7 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 
 <br>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Credits" width="30" /> References/Credits
+# References/Credits
 
 *Coming soon...*
 
@@ -373,7 +401,7 @@ Use their modpack for the best experience! Performance + visual improvements (ex
 
 <br>
 
-Made with :heart: by Looni
+Format by Faceguy - Information provided by Looni
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Looniitick/More-RPG-Servers-Worth-Your-Time)
 
