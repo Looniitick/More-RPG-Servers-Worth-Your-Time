@@ -93,7 +93,7 @@ https://discord.gg/AhAHuXFyy7
 
 https://discord.gg/qc8swvEY66
 
-[![Wiki](https://img.shields.io/badge/Wiki-telosrealms-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.telosrealms.com/)
+[![Wiki](https://img.shields.io/badge/Wiki-telos‎realms-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.telosrealms.com/)
 
 <br>
 
@@ -384,8 +384,96 @@ https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 # Music
 
 ### in order
+> If you’re a content creator looking for songs to use in editing, all of these should not trigger content ID; some are licensed by Epidemic Sounds and they will be noted accordingly
 
-*Coming soon...*
+- [Gurren Lagann OST Disc 2 - 09 - Spin, Spin, Spin, Spinnnn... / Mawatte Mawatte Mawatte Mawattetet...](https://www.youtube.com/watch?v=zWVXKMq_Vq0)
+
+- [tn-shi - Contradiction](https://www.youtube.com/watch?v=SkfCR8uk1R8)
+
+- [Terraria Journey's End OST: Journey's Beginning (Title Screen)](https://www.youtube.com/watch?v=X2frO5mx5C8)
+
+- [Staring into the Abyss (Nameless Anomaly) Orchestrated Cover](https://youtu.be/RHtrURnbzlc)
+
+- [Tanger - IMPULSE!](https://www.youtube.com/watch?v=Q1_mKApSiP8)
+
+- [Official Celeste Original Soundtrack - 03 - Resurrections](https://www.youtube.com/watch?v=1rwAvUvvQzQ)
+
+- [EpidemicSounds - Arc De Soleil - Bocosaurus (Royalty Free Music)](https://www.youtube.com/watch?v=WnRs3sn425U)
+
+- [Streets Of Rage 2 - Player Select](https://www.youtube.com/watch?v=zzJVnfHgaiw)
+
+- [P5 OST 49 Bar Yuu Comer](https://www.youtube.com/watch?v=VCg87Y1BxvE)
+
+- [ULTIMATUM |  A New Era 💫「 Official Music Video 」](https://www.youtube.com/watch?v=NF1SXbnZWwA)
+
+- [Heaven Pierce Her - ORDER (ULTRAKILL P-1 Theme #2)](https://www.youtube.com/watch?v=cI5V_8RErzI)
+
+- [Terraria Calamity Mod Music - "sanctuary" - Theme of the Sunken Sea](https://www.youtube.com/watch?v=BgLahg0wkGs)
+
+- [AZALI - no longer human](https://www.youtube.com/watch?v=hvwQAarVPNE)
+
+- [C418 - Dreiton](https://www.youtube.com/watch?v=VRYs-QfdToc)
+
+- [Chris Christodoulou - Blood on the Dancefloor | DEADBOLT (2016)](https://www.youtube.com/watch?v=qk2sVQjHCMM)
+
+- [P5 OST 38 Butterfly Kiss](https://www.youtube.com/watch?v=fTM2j1LWUa4)
+
+- [Megido: Abyss The Shattered Realm OST - #7 Battle of Legends](https://www.youtube.com/watch?v=T7ucO2Gfgrs)
+
+- [Megido Abyss OST Derelict Bastille](https://www.youtube.com/watch?v=EauQS6FVIJ4)
+
+- [Megido: Abyss OST - #21 Journey's End](https://www.youtube.com/watch?v=5POlK0rdmzM)
+
+- [Lena Raine - Creator](https://www.youtube.com/watch?v=Qtf8YFw8iZg)
+
+- [Genshin Impact - Rite of Battle](https://www.youtube.com/watch?v=M3CoUlbjQMs)
+
+- [Harry Niwa - When I’m Free](https://www.youtube.com/watch?v=2YivyYhkXaY)
+
+- [Genshin Impact - Fontaine](https://www.youtube.com/watch?v=tiulg9ySfR8)
+
+- [Persona 5 OST 17 - Last Surprise](https://www.youtube.com/watch?v=5-pYuiWoE-Q)
+
+- [Monumenta OST -  Vesperidys Music Suite (Zenith Floor 3 Boss)](https://www.youtube.com/watch?v=js1Bn4qP9KA)
+
+- [Marvel Vs. Capcom 2: Character Select](https://www.youtube.com/watch?v=yPjjnfGKrPc)
+
+- [Against All Odds | Spellforged Trailer Music by Corpe](https://www.youtube.com/watch?v=0HOolVXOrCY)
+
+- [far - i think about you not thinking about me](https://www.youtube.com/watch?v=6ZiIymrr8Gg)
+
+- [Official Celeste Original Soundtrack - 03 - Resurrections](https://www.youtube.com/watch?v=1rwAvUvvQzQ)
+
+- [Lena Raine - Creator](https://www.youtube.com/watch?v=Qtf8YFw8iZg)
+
+- [Charlie's Here - Pizza Parlor | Club Penguin OST](https://www.youtube.com/watch?v=rqnpacsOQAQ)
+
+- [Marvel Vs Capcom 2 Music - Network Mode (unused song)](https://www.youtube.com/watch?v=Q5boUCUGfEI)
+
+- [mistfulplays - (untitled)](https://www.youtube.com/watch?v=PlFo3GRaLhM)
+
+- [Ocean (Miami Nights: Singles in the City, Nintendo DS)](https://www.youtube.com/watch?v=L58xf7x2XEo)
+
+- [Genshin Impact - His Resolution](https://www.youtube.com/watch?v=HV1w9RUGgOA)
+
+- [『 ♪ Gigantic madness 』Dragalia Lost](https://www.youtube.com/watch?v=pyBsmVNcKZ4)
+
+- [Monsters Inc. (PS2) OST - Door Vault](https://www.youtube.com/watch?v=HhlrJ1dPdVw)
+
+- [Kass' Theme - The Legend of Zelda: Breath of The Wild Extended](https://www.youtube.com/watch?v=Wx6CmERsmyo)
+
+- [Gurren Lagann OST Disc 1 - 14 - All of You, Get Burned!!! / Omaera Zen'in Moete Shimae!!! / お前ら全...](https://www.youtube.com/watch?v=xWKm6jDt-BA)
+
+- [Marvel Vs Capcom 2 Music - Carnival Stage](https://www.youtube.com/watch?v=dvSQSusA9S0)
+
+- [Ultrakill - Into the Fire](https://www.youtube.com/watch?v=h4eXX5LGxuI)
+
+- [Undertale - Hotel](https://www.youtube.com/watch?v=CgvMoz2LnWA)
+
+- [Friendly Neighbors](https://www.youtube.com/watch?v=86YS7ABKLow)
+
+- [Hades - The Unseen Ones (ft. Masahiro Aoki and Daisuke Kurosawa)](https://www.youtube.com/watch?v=6NBl9NXBT3g)
+
 
 <br>
 
