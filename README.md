@@ -31,11 +31,11 @@
 <br>
 
 # Minecraft Servers
-
-> **In video order.**
+**In video order.**
 > Please check their websites or discords if IP or version are outdated, and notify me please
 
 **Server name - IP**
+
 [details] - "IP+" = can be played on newer versions as well
 
 ---
