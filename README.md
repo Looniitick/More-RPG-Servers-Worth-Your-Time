@@ -7,7 +7,7 @@ AND music + credits AAANDD computer hardware + editing software :)
 Subscribe rn
 
 ### Table of Contents
-- [Minecraft Servers](https://github.com/Looniitick/More-RPG-Servers-Worth-Your-Time/edit/main/README.md#minecraft-servers)
+- [Minecraft Servers](https://github.com/Looniitick/More-RPG-Servers-Worth-Your-Time#minecraft-servers)
 - [Honorable Mentions]
 - [Editing Software & PC Hardware]
 - [Music]
