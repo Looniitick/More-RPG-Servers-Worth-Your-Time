@@ -38,8 +38,6 @@
 
 [details] - "IP+" = can be played on newer versions as well
 
----
-
 <br>
 
 ## Hypixel SkyBlock
@@ -143,7 +141,7 @@
 | **Build Server** | `build.mineinabyss.com` (if u wanna just fly around) |
 | **Version** | 1.21.11 |
 
-Use their [modpack](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/mineinabyss-modpack) for the best experience! Performance + visual improvements (ex. it was how I got those massive wide shots of the Abyss)
+Use their [modpack](https://modrinth.com/modpack/mineinabyss-modpack) for the best experience! Performance + visual improvements (ex. it was how I got those massive wide shots of the Abyss)
 
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mine-in-abyss-385252444734619680)
 
