@@ -7,7 +7,7 @@
 
 [insert video here]
 
-[![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Looniitick)
+[![Subscribe](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Looniitick) ‎ 
 [![Discord](https://img.shields.io/badge/The_Crossroads-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Znp8tts32E)
 
 ---
@@ -48,7 +48,7 @@
 | **Version** | 1.8.9 or 1.21.x |
 > any version works. use whatever version that has the mods you need
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hypixel)
+https://discord.gg/hypixel
 
 <br>
 
@@ -58,10 +58,10 @@
 
 | | |
 |---|---|
-| **IP** | `wynncraft.com` [or to support the channel use: `looni.wynncraft.com`] |
+| **IP** | `wynncraft.com` or to support the channel use: `looni.wynncraft.com` |
 | **Version** | 1.21.4+ or optionally: [refer to latest Wynntils update version](https://modrinth.com/mod/wynntils/versions) |
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wynncraft)
+https://discord.gg/wynncraft
 
 [![Website](https://img.shields.io/badge/Website-wynncraft.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://wynncraft.com/)
 
@@ -76,7 +76,7 @@
 | **IP** | `beta.face.land` |
 | **Version** | 1.21.8+ |
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AhAHuXFyy7)
+https://discord.gg/AhAHuXFyy7
 
 [![Website](https://img.shields.io/badge/Website-face.land-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://face.land/) ‎  very nice website :)
 
@@ -91,7 +91,7 @@
 | **IP** | `telosrealms.com` |
 | **Version** | 1.21.10 |
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/qc8swvEY66)
+https://discord.gg/qc8swvEY66
 
 [![Wiki](https://img.shields.io/badge/Wiki-telosrealms-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.telosrealms.com/)
 
@@ -106,7 +106,7 @@
 | **IP** | `playhyperborea.com` |
 | **Version** | 1.21.4+ |
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/AzMEMXMz6f)
+https://discord.gg/AzMEMXMz6f
 
 [![Wiki](https://img.shields.io/badge/Wiki-hyperborea-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://hyperborea.wiki.gg/)
 
@@ -121,11 +121,9 @@
 | **IP** | *Check Discord* |
 | **Version** | 1.12.2+ |
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/invite/P95Y75u)
+https://discordapp.com/invite/P95Y75u
 
-[![Wiki](https://img.shields.io/badge/Wiki-megidoabyss-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://megidoabyss.wiki.gg/)
-
-[![YouTube](https://img.shields.io/badge/Playlist-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLtO9skh_F45O89E7P__e8NbXMZIqf5rty)
+[![Wiki](https://img.shields.io/badge/Wiki-megidoabyss-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://megidoabyss.wiki.gg/) ‎  [![YouTube](https://img.shields.io/badge/Playlist-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLtO9skh_F45O89E7P__e8NbXMZIqf5rty)
 
 <br>
 
@@ -141,11 +139,13 @@
 
 Use their [modpack](https://modrinth.com/modpack/mineinabyss-modpack) for the best experience! Performance + visual improvements (ex. it was how I got those massive wide shots of the Abyss)
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/mine-in-abyss-385252444734619680)
+https://discord.gg/mine-in-abyss-385252444734619680
 
-[![Modrinth](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/mineinabyss-modpack)
+https://mineinabyss.com/
 
-[![Docs](https://img.shields.io/badge/Modpack_Guide-Docs-blue?style=flat-square&logo=readthedocs&logoColor=white)](https://outline.mineinabyss.com/s/home/doc/modpack-VbxUNQ4ztj)
+[![Modrinth](https://img.shields.io/badge/Modpack-Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/mineinabyss-modpack) ‎ 
+[![Docs](https://img.shields.io/badge/Modpack_Guide-Docs-blue?style=flat-square&logo=readthedocs&logoColor=white)](https://outline.mineinabyss.com/s/home/doc/modpack-VbxUNQ4ztj) ‎ 
+[![Website](https://img.shields.io/badge/Website-mineinabyss.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://mineinabyss.com/) ‎ 
 
 <br>
 
@@ -158,7 +158,7 @@ Use their [modpack](https://modrinth.com/modpack/mineinabyss-modpack) for the be
 | **IP** | `play.originrealms.com` |
 | **Version** | 1.21+ |
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/originrealms)
+https://discord.gg/originrealms
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@playoriginrealms)
 
@@ -179,12 +179,11 @@ Use their [modpack](https://modrinth.com/modpack/mineinabyss-modpack) for the be
 
 ### To easily get started, officially recommended modpack here: WIP.
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Vc8Z8C33hN)
+https://discord.gg/Vc8Z8C33hN
 
-[![Website](https://img.shields.io/badge/Website-playmonumenta.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://playmonumenta.com/)
+https://playmonumenta.com/
 
-[![Wiki](https://img.shields.io/badge/Wiki-monumenta-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://monumenta.wiki.gg/)
-
+[![Wiki](https://img.shields.io/badge/Wiki-monumenta-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://monumenta.wiki.gg/) ‎ 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@monumentammo)
 
 <br>
@@ -199,20 +198,18 @@ Use their [modpack](https://modrinth.com/modpack/mineinabyss-modpack) for the be
 
 ### Spellforged
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/jJVEYpW)
+https://discord.gg/jJVEYpW
 
-[![Website](https://img.shields.io/badge/Website-spellforged-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://spellforged.github.io/)
-
+[![Website](https://img.shields.io/badge/Website-spellforged-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://spellforged.github.io/) ‎ 
 [![YouTube](https://img.shields.io/badge/YouTube-@novalescent-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@novalescent)
 
 <br>
 
 ### Isles 2.0
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/NnZREhEj6j)
+https://discord.gg/NnZREhEj6j
 
-[![Website](https://img.shields.io/badge/Website-skyblockisles.net-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://skyblockisles.net/)
-
+[![Website](https://img.shields.io/badge/Website-skyblockisles.net-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://skyblockisles.net/) ‎ 
 [![YouTube](https://img.shields.io/badge/YouTube-@skyblockisles-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@skyblockisles)
 
 <br>
@@ -232,8 +229,7 @@ Find IP and updated version info + other details by joining their discords
 ### Void Tales - voidtales.win
 `playable` — requires modpack due to resourcepack reasons (they're trying to get rid of this req)
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/k2bKBWR4UG)
-
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/k2bKBWR4UG) ‎ 
 [![YouTube](https://img.shields.io/badge/YouTube-@VoidTales0-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@VoidTales0)
 
 <br>
@@ -241,8 +237,7 @@ Find IP and updated version info + other details by joining their discords
 ### Minebox - join.minebox.co
 `playable` — offers many translations
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/y37M2ncZ6d)
-
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/y37M2ncZ6d) ‎ 
 [![Website](https://img.shields.io/badge/Website-minebox.co-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://minebox.co/)
 
 <br>
@@ -250,10 +245,8 @@ Find IP and updated version info + other details by joining their discords
 ### FishOnMC - play.fishonmc.net
 `playable` — Fishing Simulator
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8japBD4xb8)
-
-[![Wiki](https://img.shields.io/badge/Wiki-fishonmc-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.fishonmc.net/)
-
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8japBD4xb8) ‎ 
+[![Wiki](https://img.shields.io/badge/Wiki-fishonmc-6B7280?style=flat-square&logo=gitbook&logoColor=white)](https://wiki.fishonmc.net/) ‎ 
 [![YouTube](https://img.shields.io/badge/YouTube-@FishOnMinecraft-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@FishOnMinecraft)
 
 <br>
@@ -270,8 +263,7 @@ Find IP and updated version info + other details by joining their discords
 
 https://discord.gg/H9pEuPNYBj
 
-[![Website](https://img.shields.io/badge/Website-nuvguard.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://nuvguard.com/)
-
+[![Website](https://img.shields.io/badge/Website-nuvguard.com-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://nuvguard.com/) ‎ 
 [![YouTube](https://img.shields.io/badge/YouTube-@Nuvguard-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Nuvguard)
 
 <br>
@@ -325,8 +317,10 @@ https://modrinth.com/modpack/undertale
 <br>
 
 ### ATMOS
+[![YouTube](https://img.shields.io/badge/Trailer-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=hNQaHI_sUTk)
 
 https://modrinth.com/modpack/atmos_roguelike
+
 https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 
 > Modpack download is just for easier instance setup. Map technically doesnt require mods :) (the advantage is server map hosting)
