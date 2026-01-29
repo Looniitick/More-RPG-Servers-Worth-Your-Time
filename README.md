@@ -1,10 +1,11 @@
 # RESOURCE DOC - More RPG Servers Worth Your Time
 read below for details on the servers showcased in Looni's video
+
 [insert video here]
 
 AND music + credits AAANDD computer hardware + editing software :)
-Subscribe rn
 
+Subscribe rn
 
 Minecraft Servers
 In video order.
