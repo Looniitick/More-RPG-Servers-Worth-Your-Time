@@ -65,7 +65,7 @@ https://discord.gg/hypixel
 
 https://discord.gg/wynncraft
 
-[![Website](https://img.shields.io/badge/Website-Wynncraft-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://wynncraft.com/)
+[![Website](https://img.shields.io/badge/Website-Wynncraft-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://wynncraft.com/) ‎  [![Website](https://img.shields.io/badge/Mod-Wynntils-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](https://modrinth.com/mod/wynntils/versions)
 
 <br>
 
@@ -454,6 +454,8 @@ https://www.planetminecraft.com/project/atmos-rougelike-rougelite/
 - [Marvel Vs Capcom 2 Music - Network Mode (unused song)](https://www.youtube.com/watch?v=Q5boUCUGfEI)
 
 - [mistfulplays - (untitled)](https://www.youtube.com/watch?v=PlFo3GRaLhM)
+
+- [Luigi's Mansion - Mansion (Dark Hallway)](https://www.youtube.com/watch?v=NdlErWd_Dpg)
 
 - [Ocean (Miami Nights: Singles in the City, Nintendo DS)](https://www.youtube.com/watch?v=L58xf7x2XEo)
 
