@@ -179,7 +179,7 @@ https://discord.gg/originrealms
 
 [![Resource Packs](https://img.shields.io/badge/Resource_Packs-Guide-orange?style=flat-square&logo=bookstack&logoColor=white)](https://monumenta.wiki.gg/wiki/Monumenta_Resource_Packs)
 
-### To easily get started, officially recommended modpack here: WIP.
+### To easily get started, officially recommended modpack here: https://modrinth.com/modpack/official-monumenta-modpack
 
 https://discord.gg/Vc8Z8C33hN
 
