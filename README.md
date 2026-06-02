@@ -259,7 +259,8 @@ https://discord.gg/8japBD4xb8
 ### ArcanimaFable
 `in-development` — inspired by DragaliaLost
 
-> Discord WIP
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/4Rqvu7JR3u) ‎
+
 
 <br>
 
